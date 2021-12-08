@@ -1,2 +1,2 @@
-# Machine-Learning-Small-Projects---Python
-This includes some small projects with most popular machine learning models and algorithms.
+# Regression Models with Python
+This includes some small projects using linear or non-linear regression models with Python.
